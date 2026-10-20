@@ -11,7 +11,7 @@ I'm passionate about data, artificial intelligence, and building intelligent sol
 
 **[Data Science Salary Analysis](https://github.com/zouhair-elalaoui/data-science-salary-analysis)** — A data visualization project exploring Data Science salaries through univariate, bivariate, multivariate, temporal, geospatial, and geotemporal analysis, including Principal Component Analysis (PCA).
 
-
+**[Credit Card Fraud Detection](https://github.com/zouhair-elalaoui/credit-card-fraud-detection)** — A machine learning study focused on identifying fraudulent credit card transactions through exploratory analysis, data balancing techniques (SMOTE and undersampling), and comparison of six classification algorithms, with Random Forest delivering the strongest overall results.
 
 ---
 
