@@ -7,9 +7,9 @@ I'm passionate about data, artificial intelligence, and building intelligent sol
 
 ## Projects
 
-[SIEM Big Data](https://github.com/zouhair-elalaoui/siem-bigdata) — A real-time SIEM platform leveraging Big Data technologies, Apache Kafka, Spark Streaming, and machine learning for network traffic analysis, anomaly detection, and security alerting with Elasticsearch and MongoDB.
-
 [World Cup Prediction Platform](https://github.com/zouhair-elalaoui/world-cup-prediction-platform) — A machine learning platform that predicts football match outcomes using historical data and XGBoost and Logistic Regression models. It also simulates the FIFA World Cup 2026 with 10,000 simulations.
+
+[SIEM Big Data](https://github.com/zouhair-elalaoui/siem-bigdata) — A real-time SIEM platform leveraging Big Data technologies, Apache Kafka, Spark Streaming, and machine learning for network traffic analysis, anomaly detection, and security alerting with Elasticsearch and MongoDB.
 
 **[Data Science Salary Analysis](https://github.com/zouhair-elalaoui/data-science-salary-analysis)** — A data visualization project exploring Data Science salaries through univariate, bivariate, multivariate, temporal, geospatial, and geotemporal analysis, including Principal Component Analysis (PCA).
 
